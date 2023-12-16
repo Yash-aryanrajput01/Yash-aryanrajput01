@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yash-aryanrajput01
-- 👀 I’m interested in Data Science Programming
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning at IIT MADRAS
 
 <!---
