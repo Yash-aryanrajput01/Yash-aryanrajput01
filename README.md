@@ -1,4 +1,9 @@
 ###👋 Hello, I'm Aryan Rajput !
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 A dedicated coder from India, I’m interested in Data Science, currently learning at IIT MADRAS channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.
 
