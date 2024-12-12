@@ -1,4 +1,5 @@
-👋 Hello, I'm Aryan Rajput !
+###👋 Hello, I'm Aryan Rajput !
+
 A dedicated coder from India, I’m interested in Data Science, currently learning at IIT MADRAS channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.
 
 🚀 Passionate Developer Crafting Innovation 🌟
