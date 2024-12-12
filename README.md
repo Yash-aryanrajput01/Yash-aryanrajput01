@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @Yash-aryanrajput01
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning at IIT MADRAS
 👋 Hello, I'm Aryan Rajput !
-A dedicated coder from India, channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.
-Ashutosh Gaurav
-
-Ashutosh Gaurav
+A dedicated coder from India, I’m interested in Data Science, currently learning at IIT MADRAS channeling the spirit of its age-old philosophies into algorithms, seeking harmony between tradition and innovation in every line of code.
 
 🚀 Passionate Developer Crafting Innovation 🌟
 Hey there! I'm deeply passionate about crafting dynamic web applications that offer seamless functionality and exceptional user experiences. With expertise in React and a keen interest in Python, I'm constantly exploring new technologies to push the boundaries of web development.
