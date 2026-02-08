@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yash-aryanrajput01" alt="yash-aryanrajput01" /></a> </p>
 
-- 🔭 I’m currently working on **Ed Tech Company, Bengaluru**
+- 🔭 I’m currently working at **Ed-Tech Company, Bengaluru** and **Building My Climate-Tech Startup**
 
 - 🌱 I’m currently learning **React**
 
