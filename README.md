@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Rajput</h1>
-<h3 align="center">A passionate engineer from IIT Madras,India</h3>
+<h1 align="center">Hi, I'm Aryan Rajput</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-aryanrajput01&label=Profile%20views&color=0e75b6&style=flat" alt="yash-aryanrajput01" /> </p>
 
