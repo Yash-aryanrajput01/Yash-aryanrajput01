@@ -40,4 +40,4 @@ engineering, and systems at [aryan.climorisk.com](https://aryan.climorisk.com/).
 
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-</div>g
+</div>
