@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Aryan Rajput"/>
+<img src="./ascii.svg" width="620" alt="Aryan Rajput"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -40,4 +40,4 @@ engineering, and systems at [aryan.climorisk.com](https://aryan.climorisk.com/).
 
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-</div>g
+</div>
